@@ -1,2 +1,4 @@
 # GitHub Demo Repo
-This is a Demo of how to use and work with GitHub
+This is a Demo of how to use and work with Git
+
+This is a new line.
